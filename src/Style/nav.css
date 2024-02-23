@@ -1,0 +1,46 @@
+/* Custom CSS for a unique navbar */
+.navbar {
+  background-color: #292b2c; /* Dark background color */
+}
+
+.navbar-nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav-item {
+  margin-right: 15px;
+}
+
+.nav-link {
+  color: #fff !important; /* White text color */
+  font-weight: bold;
+  position: relative;
+  transition: color 0.3s ease;
+}
+
+.nav-link:before {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: #ffd700; /* Yellow line under the link */
+  transform: scaleX(0);
+  transform-origin: bottom right;
+  transition: transform 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #ffd700 !important; /* Yellow text color on hover */
+}
+
+.nav-link:hover:before {
+  transform: scaleX(1); /* Expand the yellow line on hover */
+}
+.logo-img {
+  width: 200px;
+  height: 200px;
+  margin-right: 600px;
+}

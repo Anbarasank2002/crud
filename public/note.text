@@ -1,0 +1,112 @@
+[
+  {
+    "img": "https://wallpapercave.com/wp/wp12175977.jpg",
+    "brand": "Trek",
+    "model": "FX 3",
+    "type": "Hybrid",
+    "year": 2022,
+    "color": "Black",
+    "price": 799.99,
+    "product_id": "product_id 1",
+    "id": "1"
+  },
+  {
+    "img": "https://wallpapercave.com/wp/wp12175987.jpg",
+    "brand": "Giant",
+    "model": "Trance 29",
+    "type": "Mountain",
+    "year": 2023,
+    "color": "Blue",
+    "price": 1999.99,
+    "product_id": "product_id 2",
+    "id": "2"
+  },
+  {
+    "img": "https://wallpapercave.com/wp/wp12135201.jpg",
+    "brand": "Ducati ",
+    "model": " Roubaix",
+    "type": "Road ",
+    "year": 2021,
+    "color": "Black ",
+    "price": 2499.99,
+    "product_id": " product_id 3",
+    "id": "3"
+  },
+  {
+    "img": "https://wallpapercave.com/wp/wp12295603.jpg",
+    "brand": "Cannondale",
+    "model": "Topstone ",
+    "type": "Gravel ",
+    "year": 2023,
+    "color": "Yellow ",
+    "price": 1299.99,
+    "product_id": "product_id 4",
+    "id": "4"
+  },
+  {
+    "img": "https://wallpapercave.com/wp/wp12295583.jpg",
+    "brand": "KTM ",
+    "model": " Townie",
+    "type": "Cruiser ",
+    "year": 2022,
+    "color": "White & Orange ",
+    "price": 549.99,
+    "product_id": "product_id 5",
+    "id": "5"
+  },
+  {
+    "img": "https://wallpapercave.com/wp/wp12760112.jpg",
+    "brand": "BMW",
+    "model": "Addict Rc",
+    "type": "Road",
+    "year": 2023,
+    "color": "White",
+    "price": 3199.64,
+    "product_id": "product_id 6",
+    "id": "6"
+  },
+  {
+    "img": "https://wallpapercave.com/wp/wp10545506.jpg",
+    "brand": "YAMAHA",
+    "model": "Aspero R1",
+    "type": "Gravel",
+    "year": 2022,
+    "color": "Blue",
+    "price": 2399.99,
+    "product_id": "product_id 7",
+    "id": "7"
+  },
+  {
+    "img": "https://wallpapercave.com/wp/wp12709249.jpg",
+    "brand": "Santa Cruz",
+    "model": "Chameleon",
+    "type": "Mountain",
+    "year": 2023,
+    "color": "Black",
+    "price": 1699.99,
+    "product_id": "product_id 8",
+    "id": "8"
+  },
+  {
+    "id": "9",
+    "img": "https://wallpapercave.com/wp/wp9064113.jpg",
+    "brand": "Raleigh",
+    "model": "Redux",
+    "type": "Hybrid",
+    "year": 2022,
+    "color": "Silver",
+    "price": 899.99,
+    "product_id": "product_id 9"
+  },
+  {
+    "img": "https://wallpapercave.com/wp/wp11684312.jpg",
+    "brand": "Yamaha",
+    "model": "Mt15",
+    "type": "Gravel",
+    "year": 2023,
+    "color": "Black",
+    "price": 1099.99,
+    "product_id": "product_id 10",
+    "id": "10"
+  }
+]

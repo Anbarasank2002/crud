@@ -1,0 +1,45 @@
+.card {
+  transition: transform 0.9s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+.card-title {
+  font-size: 1.5rem;
+}
+
+dl.row {
+  margin-bottom: 0;
+}
+
+dl.row dt,
+dl.row dd {
+  padding: 0.5rem;
+}
+
+dl.row dt {
+  font-weight: bold;
+}
+
+.card-img-top {
+  max-height: 210px;
+  object-fit: cover;
+}
+
+.row-cols-md-3 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col.mb-4 {
+  flex: 0 0 calc(33.333% - 1rem);
+  margin: 0.5rem;
+}
+img {
+  width: 100%; /* Make the image responsive */
+  max-height: 600px; /* Set a maximum height to avoid distortion */
+  border-radius: 8px; /* Add rounded corners */
+}

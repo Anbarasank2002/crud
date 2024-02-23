@@ -1,0 +1,97 @@
+/* Reset some default styles */
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Apply a modern font */
+body {
+  font-family: "Arial", sans-serif;
+}
+
+/* Style the modern footer */
+.modern-footer {
+  background-color: #333;
+  color: #fff;
+  padding: 50px 0;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.footer-logo img {
+  width: 200px;
+  height: 200px;
+  margin-right: 600px;
+}
+
+.footer-logo h1 {
+  font-size: 1.5em;
+  margin-top: 10px;
+}
+
+.footer-links ul {
+  list-style: none;
+}
+
+.footer-links li {
+  margin-bottom: 10px;
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: #fff;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: #ffcc00; /* Change to your preferred hover color */
+}
+
+.footer-social ul {
+  list-style: none;
+  display: flex;
+}
+
+.footer-social li {
+  margin-right: 10px;
+}
+
+.footer-social a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.5em;
+  transition: color 0.3s ease;
+}
+
+.footer-social a:hover {
+  color: #ffcc00; /* Change to your preferred hover color */
+}
+
+.footer-contact h3 {
+  margin-bottom: 10px;
+}
+
+.footer-contact p {
+  margin-bottom: 5px;
+}
+
+.footer-bottom {
+  text-align: center;
+  padding-top: 20px;
+  background-color: #222;
+}
+
+.footer-bottom p {
+  font-size: 0.9em;
+  margin: 0;
+}
