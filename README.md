@@ -28,7 +28,7 @@
 
 ## Demo Link
 
-- [Netlify demo link](/)
+- [Netlify demo link]("https://bike-z.netlify.app/"/)
 
 # React + Vite
 
